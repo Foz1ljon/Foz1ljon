@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Foziljon!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Foz1ljjon&style=flat-square)
+
 
 ## 🚀 About Me
 
@@ -53,4 +53,6 @@ I'm a Fullstack Developer passionate about building web applications using moder
 
 ---
 
-*If you like my work, consider giving a ⭐ on [my projects](https://github.com/yourusername?tab=repositories)!*
+*If you like my work, consider giving a ⭐ on [my projects](https://github.com/Foz1ljon?tab=repositories)!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Foz1ljjon&style=flat-square)
