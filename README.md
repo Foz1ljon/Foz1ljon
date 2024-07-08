@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Foziljon!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Foz1ljjon&style=flat-square)
 
 ## 🚀 About Me
 
