@@ -43,16 +43,13 @@ I'm a Fullstack Developer passionate about building web applications using moder
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shorturl.at/8Bs4i)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhriddinovf03@mail.ru)
 
-## 📝 Latest Blog Posts
 
-- [How to Build a REST API with Node.js](https://yourblog.com/how-to-build-a-rest-api-with-nodejs)
-- [Getting Started with Vue 3](https://yourblog.com/getting-started-with-vue3)
-- [Fullstack Development: Best Practices](https://yourblog.com/fullstack-development-best-practices)
+
+
+
+
+
 
 ## 📂 Projects
 
 ---
-
-*If you like my work, consider giving a ⭐ on [my projects](https://github.com/Foz1ljon?tab=repositories)!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Foz1ljjon&style=flat-square)
