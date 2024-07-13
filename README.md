@@ -40,7 +40,7 @@ I'm a Fullstack Developer passionate about building web applications using moder
 
 
 [![Twitter](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://coderf.t.me)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shorturl.at/8Bs4i)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1UeWbd7ucZKYwUunwJ3_BwuTjiLXfwOzN/view)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhriddinovf03@mail.ru)
 
 
