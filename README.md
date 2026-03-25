@@ -3,7 +3,7 @@
   <p>Frontend-focused Fullstack Developer</p>
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://coderf.t.me)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fakhriddinovf03@mail.ru)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderf03@@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1UeWbd7ucZKYwUunwJ3_BwuTjiLXfwOzN/view)
 </div>
 
